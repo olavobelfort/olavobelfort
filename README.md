@@ -1,15 +1,17 @@
 ## Oi, me chamo Olavo Belfort e estou no penultimo semestre de Analise De Desenvolvimento!
 
-- 🔭 Sou estágiario no setor de TI na **Prefeitura De Ubatuba**
+- 💼 Sou estágiario no setor de TI na **Prefeitura De Ubatuba**
 - 🤔 Explorando novas tecnologias e soluções de software.
 
+ ----
 <div align="center">
   <a href="https://github.com/olavobelfort">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olavobelfort&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavobelfort&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
+ ----
+
 **👨‍💻 Tecnologias e Ferramentas**
 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -20,8 +22,9 @@
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-PHP-F29111?style=flat&logo=php&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
- 
-  
+
+
+  -----
   
   **📚Estudando**
   
