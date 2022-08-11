@@ -1,4 +1,4 @@
-## Oi, me chamo Olavo Belfort e estou no penultimo semestre de Analise De Desenvolvimento!
+## Oi, me chamo Olavo Belfort e estou no ultimo semestre de Analise De Desenvolvimento!
 
 - 💼 Estágiario no setor de TI na **Prefeitura De Ubatuba**
 - 🤔 Explorando novas tecnologias e soluções de software.
