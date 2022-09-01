@@ -1,6 +1,6 @@
-## Oi, me chamo Olavo Belfort e estou no ultimo semestre de Analise De Desenvolvimento!
+## Me chamo Olavo Belfort e estou no ultimo semestre de Analise De Desenvolvimento!
 
-- 💼 Estágiario no setor de TI na **Prefeitura De Ubatuba**
+- 💼 Desenvolvedor de Software na **Prefeitura De Ubatuba**
 - 🤔 Explorando novas tecnologias e soluções de software.
 
  ----
@@ -15,14 +15,5 @@
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-PHP-F29111?style=flat&logo=php&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
-
-
-  -----
-  
-  **📚Estudando**
-  
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-  
-  
-  
