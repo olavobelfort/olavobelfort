@@ -1,6 +1,6 @@
 ## Me chamo Olavo Belfort e estou no ultimo semestre de Analise De Desenvolvimento de Sistemas!
 
-- 💼 Desenvolvedor de Software na **Prefeitura De Ubatuba**
+- 💼 Analista de sistemas na **Icaro Tech**
 - 🤔 Explorando novas tecnologias e soluções de software.
 
  ----
