@@ -1,7 +1,6 @@
 ## Me chamo Olavo Belfort e estou no ultimo semestre de Analise De Desenvolvimento de Sistemas!
 
-- 💼 Analista de sistemas na **Icaro Tech**
-- 🤔 Explorando novas tecnologias e soluções de software.
+- 💼 Software Enginner Java
 
  ----
 
