@@ -1,5 +1,3 @@
-## Me chamo Olavo Belfort e estou no ultimo semestre de Analise De Desenvolvimento de Sistemas!
-
 - 💼 Software Enginner Java
 
  ----
